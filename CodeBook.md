@@ -6,7 +6,7 @@ In this file the resulting data columns of the average_data.txt file are summari
 
 "subjectID" - The ID of the subject from the training and test data 
 
-"activity" - The type of activity performed when the corresponding measurements were taken
+"activity" - The types of activity
 
 
 ##Activity Labels
